@@ -118,4 +118,4 @@ The server also offers two prompts, `fix_blocking_findings` and `security_postur
 
 ## Support
 
-Questions and access requests: https://ulapcybo.app
+Questions and access requests: contact@ulap.co
